@@ -1,0 +1,4 @@
+*.jks
+*.keystore
+*.idsig
+__pycache__/
